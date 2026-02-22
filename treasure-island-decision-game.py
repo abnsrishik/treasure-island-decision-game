@@ -50,4 +50,4 @@ if left_right == 'left':
 elif left_right == 'right':
     print("You fell into a hole. Game Over.")
 else:
-    print("Invalid Direction")
+    print("Invalid Direction.")
